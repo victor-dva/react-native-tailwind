@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "babel-preset-expo": "^54.0.2",
+    "nativewind": "^4.2.1",
+    "react-native-reanimated": "^4.1.0",
+    "react-native-safe-area-context": "^5.6.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
